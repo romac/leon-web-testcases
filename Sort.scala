@@ -7,7 +7,7 @@ object Sort {
 
   import list._
   
-  // Hello, World!
+  // Hello, World! <-- It worked!
 
   /* Insertion sort yields a sorted list of same size and content as the input
    * list */
