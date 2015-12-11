@@ -6,6 +6,8 @@ import leon.annotation._
 object Sort {
 
   import list._
+  
+  // Hello, World!
 
   /* Insertion sort yields a sorted list of same size and content as the input
    * list */
