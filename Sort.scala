@@ -1,5 +1,7 @@
 package simple
 
+// Hello, World
+
 import leon.lang._
 import leon.annotation._
 
