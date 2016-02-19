@@ -5,7 +5,6 @@ import leon.annotation._
 
 object list {
 
-/** List class */
 sealed abstract class List {
 
   def size : BigInt = (this match {
