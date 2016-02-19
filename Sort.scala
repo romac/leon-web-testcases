@@ -3,6 +3,7 @@ package simple
 import leon.lang._
 import leon.annotation._
 
+/** Implement sort operation */
 object Sort {
 
   import list._
