@@ -3,7 +3,6 @@ package simple
 import leon.lang._
 import leon.annotation._
 
-// kdfjhskfhdskjgfd
 object Sort {
 
   import list._
