@@ -3,7 +3,7 @@ package simple
 import leon.lang._
 import leon.annotation._
 
-/* ABCDEF */
+// HEllo
 object Sort {
 
   import list._
