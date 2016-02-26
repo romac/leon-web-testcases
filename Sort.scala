@@ -3,7 +3,7 @@ package simple
 import leon.lang._
 import leon.annotation._
 
-// ABCDEF
+// 123
 object Sort {
 
   import list._
