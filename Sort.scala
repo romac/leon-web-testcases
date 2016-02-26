@@ -3,7 +3,7 @@ package simple
 import leon.lang._
 import leon.annotation._
 
-// ABCDEF
+// Hello, world
 object Sort {
 
   import list._
@@ -22,7 +22,7 @@ object Sort {
     val ls: List = Cons(5, Cons(2, Cons(4, Cons(5, Cons(1, Cons(8,Nil))))))
 
     // println(ls)
-    println(sort(ls))
+    // println(sort(ls))
   }
 
 }
